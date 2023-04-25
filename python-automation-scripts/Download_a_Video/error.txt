@@ -1,0 +1,3 @@
+module 'pytube' has no attribute 'YouTube'
+
+KeyError: 'streamingData'

@@ -1,0 +1,3 @@
+OSError: Can't load tokenizer for 'gpt2'. If you were trying to load it from 'https://huggingface.co/models'
+, make sure you don't have a local directory with the same name. Otherwise, make sure 'gpt2' is the correct
+path to a directory containing all relevant files for a GPT2TokenizerFast tokenizer.

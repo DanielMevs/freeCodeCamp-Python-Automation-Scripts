@@ -1,0 +1,3 @@
+typing-extensions, colorama, catalogue, urllib3, srsly, pydantic, numpy, murmurhash, idna, cymem, click, charset-normalizer, certifi, wasabi, typer, tqdm, smart-ope
+n, requests, pyyaml, preshed, packaging, mpmath, MarkupSafe, fsspec, filelock, confection, blis, tokenizers, thinc, sympy, spacy-loggers, spacy-legacy, regex, pathy, networkx, langcodes, jinja2,
+huggingface-hub, editdistpy, transformers, torch, symspellpy, spacy, lemminflect, lmproof
